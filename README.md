@@ -1,6 +1,5 @@
 Done this project in Mobile Application Developing Internship
 
-model
 Ecommerce PC_store app using flutter by DART language
 
 A new Flutter project.
